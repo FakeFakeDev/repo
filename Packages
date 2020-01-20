@@ -1,14 +1,14 @@
-Package: com.fakefake.noprivatepopup
+Package: com.fakefake.noblurinfolders
 Section: Tweaks
 Maintainer: FakeFake <fakefakedev@gmail.com>
 Architecture: iphoneos-arm
-Version: 0.0.1
+Version: 1.0
 Depends: mobilesubstrate
-Filename: debs//com.fakefake.noprivatepopup_0.0.1-1+debug_iphoneos-arm.deb
-Size: 3314
-MD5sum: 2a2f139c5c1884863f234c9ac6f3ec10
-SHA1: 4ffe655506d4587879a89ddb66d035814a5e2ca8
-SHA256: f0fc67bca946ca2c6500d7779cbe15b27a50103a6fa4cb6d1ef7098fb1cc49d2
-Description: No Private popup in Safari
-Name: NoPrivatePopUp
+Filename: debs//com.fakefake.noblurinfolders_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4698
+MD5sum: ce9041f221e6c63673a1a4a3d2b49566
+SHA1: 7cf77c801a1e6547bd88eec45792f986dd848596
+SHA256: f3b7efdde3066e29dafdf6f725bdd48108edf7d6ac25f7538a751339032228b9
+Description: Removes the blur inside folders
+Name: NoBlurInFolders
 Author: FakeFake <fakefakedev@gmail>
