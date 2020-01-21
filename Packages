@@ -1,3 +1,48 @@
+Package: com.fakefake.nofoldernames
+Section: Tweaks
+Maintainer: FakeFake <fakefakedev@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate
+Filename: debs//com.fakefake.nofoldernames_0.0.1-2+debug_iphoneos-arm.deb
+Size: 4326
+MD5sum: fece72d6a6bcee90fe8702abaaa93972
+SHA1: 9289b935e654f9defb3d775f6170c977d74e9891
+SHA256: ce63624435c7927533d939ed3579ed2dfebe6245a939133dca96cd6e50ef2082
+Description: Removes Folder Names
+Name: NoFolderNames
+Author: FakeFake <fakefakedev@gmail>
+
+Package: com.fakefake.noprivatepopup
+Section: Tweaks
+Maintainer: FakeFake <fakefakedev@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate
+Filename: debs//com.fakefake.noprivatepopup_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3314
+MD5sum: 2a2f139c5c1884863f234c9ac6f3ec10
+SHA1: 4ffe655506d4587879a89ddb66d035814a5e2ca8
+SHA256: f0fc67bca946ca2c6500d7779cbe15b27a50103a6fa4cb6d1ef7098fb1cc49d2
+Description: No Private popup in Safari
+Name: NoPrivatePopUp
+Author: FakeFake <fakefakedev@gmail>
+
+Package: com.fakefake.nocontactsinshare
+Section: Tweaks
+Maintainer: FakeFake <fakefakedev@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate
+Filename: debs//com.fakefake.nocontactsinshare_1.0-1+debug_iphoneos-arm.deb
+Size: 4918
+MD5sum: 812f93f5aafc756100af9a303d9f3563
+SHA1: f90082232f3aa5d175d4f1df85effee8a765194a
+SHA256: b5a5cfc768db6ebcaec9dc7e3a3d778ebc8bead217850b8aee0268d481278c72
+Description: No Contacts in the iOS 13 share menu
+Name: NoContactsInShare
+Author: FakeFake <fakefakedev@gmail>
+
 Package: com.fakefake.noblurinfolders
 Section: Tweaks
 Maintainer: FakeFake <fakefakedev@gmail.com>
@@ -9,6 +54,6 @@ Size: 4698
 MD5sum: ce9041f221e6c63673a1a4a3d2b49566
 SHA1: 7cf77c801a1e6547bd88eec45792f986dd848596
 SHA256: f3b7efdde3066e29dafdf6f725bdd48108edf7d6ac25f7538a751339032228b9
-Description: Removes the blur inside folders
+Description: Hides blur in folders
 Name: NoBlurInFolders
 Author: FakeFake <fakefakedev@gmail>
