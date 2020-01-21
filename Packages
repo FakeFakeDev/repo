@@ -57,3 +57,18 @@ SHA256: f3b7efdde3066e29dafdf6f725bdd48108edf7d6ac25f7538a751339032228b9
 Description: Hides blur in folders
 Name: NoBlurInFolders
 Author: FakeFake <fakefakedev@gmail>
+
+Package: com.fakefake.noticktock
+Section: Tweaks
+Maintainer: FakeFake <fakefakedev@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate
+Filename: debs//com.fakefake.noticktock_1.0-1+debug_iphoneos-arm.deb
+Size: 4766
+MD5sum: 4072d1dc3f428b4e2321d86e3977fcc7
+SHA1: f67357a9d139afd93a5b911539f6e8c058c67631
+SHA256: b06118b8bf1506e7ca605063f91d9b688ff74762870bfe099b3c94f2a248600a
+Description: Removes the second hand on the live clock icon
+Name: NoTickTock
+Author: FakeFake <fakefakedev@gmail>
