@@ -2,7 +2,7 @@ Package: com.fakefake.nofoldernames
 Section: Tweaks
 Maintainer: FakeFake <fakefakedev@gmail.com>
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 0.0.1-2+debug
 Depends: mobilesubstrate
 Filename: debs//com.fakefake.nofoldernames_0.0.1-2+debug_iphoneos-arm.deb
 Size: 4326
@@ -17,7 +17,7 @@ Package: com.fakefake.noprivatepopup
 Section: Tweaks
 Maintainer: FakeFake <fakefakedev@gmail.com>
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 0.0.1-1+debug
 Depends: mobilesubstrate
 Filename: debs//com.fakefake.noprivatepopup_0.0.1-1+debug_iphoneos-arm.deb
 Size: 3314
@@ -32,7 +32,7 @@ Package: com.fakefake.nocontactsinshare
 Section: Tweaks
 Maintainer: FakeFake <fakefakedev@gmail.com>
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.0-1+debug
 Depends: mobilesubstrate
 Filename: debs//com.fakefake.nocontactsinshare_1.0-1+debug_iphoneos-arm.deb
 Size: 4918
@@ -47,7 +47,7 @@ Package: com.fakefake.noblurinfolders
 Section: Tweaks
 Maintainer: FakeFake <fakefakedev@gmail.com>
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 0.0.1-1+debug
 Depends: mobilesubstrate
 Filename: debs//com.fakefake.noblurinfolders_0.0.1-1+debug_iphoneos-arm.deb
 Size: 4698
@@ -62,7 +62,7 @@ Package: com.fakefake.noticktock
 Section: Tweaks
 Maintainer: FakeFake <fakefakedev@gmail.com>
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.0-1+debug
 Depends: mobilesubstrate
 Filename: debs//com.fakefake.noticktock_1.0-1+debug_iphoneos-arm.deb
 Size: 4766
