@@ -72,3 +72,18 @@ SHA256: b06118b8bf1506e7ca605063f91d9b688ff74762870bfe099b3c94f2a248600a
 Description: Removes the second hand on the live clock icon
 Name: NoTickTock
 Author: FakeFake <fakefakedev@gmail>
+
+Package: com.fakefake.gettofree
+Section: Tweaks
+Maintainer: FakeFake <fakefakedev@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.0.1-2+debug
+Depends: mobilesubstrate
+Filename: debs//com.fakefake.gettofree_0.0.1-2+debug_iphoneos-arm.deb
+Size: 4482
+MD5sum: 20d028092915019ce06874570c1fa83a
+SHA1: 2999392f0ff5fbda1fe869dc55a2164f6e0efa59
+SHA256: 566caf1bc61974b17eb4c36ac9cad349f93eba8544932f1b73d2371a68db20c8
+Description: Changes the GET text to FREE in App Store
+Name: GET to FREE
+Author: FakeFake <fakefakedev@gmail>
