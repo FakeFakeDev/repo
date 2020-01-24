@@ -77,13 +77,13 @@ Package: com.fakefake.gettofree
 Section: Tweaks
 Maintainer: FakeFake <fakefakedev@gmail.com>
 Architecture: iphoneos-arm
-Version: 0.0.1-2+debug
+Version: 0.0.1-1+debug
 Depends: mobilesubstrate
-Filename: debs//com.fakefake.gettofree_0.0.1-2+debug_iphoneos-arm.deb
-Size: 4482
-MD5sum: 20d028092915019ce06874570c1fa83a
-SHA1: 2999392f0ff5fbda1fe869dc55a2164f6e0efa59
-SHA256: 566caf1bc61974b17eb4c36ac9cad349f93eba8544932f1b73d2371a68db20c8
+Filename: debs//com.fakefake.gettofree_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5032
+MD5sum: 53ac43feab12a034536f8604adc368a9
+SHA1: e96cb0138690d5d667de98bdd7e38b438f6b0841
+SHA256: f151722492173ba218a703542257cd9e0512302f36666ca261c84869d3bd1e68
 Description: Changes the GET text to FREE in App Store
-Name: GET to FREE
+Name: GETtoFREE
 Author: FakeFake <fakefakedev@gmail>
