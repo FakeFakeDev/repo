@@ -87,3 +87,18 @@ SHA256: f151722492173ba218a703542257cd9e0512302f36666ca261c84869d3bd1e68
 Description: Changes the GET text to FREE in App Store - Tested on iPhone X on iOS 13.2.2
 Name: GETtoFREE
 Author: FakeFake <fakefakedev@gmail>
+
+Package: com.fakefake.tryitfree
+Section: Tweaks
+Maintainer: FakeFake <fakefakedev@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0-1
+Depends: mobilesubstrate
+Filename: debs//com.fakefake.tryitfree_1.0-1_iphoneos-arm.deb
+Size: 3168
+MD5sum: 3ee6b874b12fac220c1ba59be95f5c3a
+SHA1: d226b3e6dc156fa950634f5df14c91656822d8aa
+SHA256: 3aae97b4edb4109d43ea66fdd5ef04c476edcd1fc8189451ad0fa328ccfce4ae
+Description: $4.99 a month isn't free.
+Name: Try it "Free"
+Author: FakeFake <fakefakedev@gmail>
