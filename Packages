@@ -102,3 +102,18 @@ SHA256: 3aae97b4edb4109d43ea66fdd5ef04c476edcd1fc8189451ad0fa328ccfce4ae
 Description: $4.99 a month isn't free.
 Name: Try it "Free"
 Author: FakeFake <fakefakedev@gmail>
+
+Package: com.fakefake.flashnowake
+Section: Tweaks
+Maintainer: FakeFake <fakefakedev@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.1-1
+Depends: mobilesubstrate
+Filename: debs//com.fakefake.flashnowake_1.1-1_iphoneos-arm.deb
+Size: 4256
+MD5sum: 3df06e1430242a1611ed7fcf488d4659
+SHA1: f73f9a9b70c395d11f57ec9e4bcc366e243dec4e
+SHA256: 514339bc6057d0a5c2a18d1acbf0b3bd57e776ce64cb8fcbe9c2bd0d33d31fe0
+Description: Disables Raise To Wake and Tap To Wake when flashlight is on.
+Name: FlashNoWake
+Author: FakeFake <fakefakedev@gmail>
